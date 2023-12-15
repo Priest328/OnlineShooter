@@ -3,8 +3,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "OSWeapon.h"
-#include "OSProjectileWeapon.generated.h"
+#include "OS_Weapon.h"
+#include "OS_ProjectileWeapon.generated.h"
 
 /**
  * 

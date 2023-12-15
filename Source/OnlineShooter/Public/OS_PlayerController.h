@@ -3,14 +3,14 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameFramework/GameMode.h"
-#include "OSGameMode.generated.h"
+#include "GameFramework/PlayerController.h"
+#include "OS_PlayerController.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class ONLINESHOOTER_API AOSGameMode : public AGameMode
+class ONLINESHOOTER_API AOS_PlayerController : public APlayerController
 {
 	GENERATED_BODY()
 	
